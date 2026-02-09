@@ -113,14 +113,12 @@ Baseado em 39 fontes, incluindo:
 - *Security Analysis* (1934) - Benjamin Graham e David Dodd
 - *The Intelligent Investor* (1949) - Benjamin Graham
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se livre para abrir issues ou pull requests.
-
+## 📓 Acesso ao Notebook Original
+   
+   [Visualizar no Google NotebookLM](https://notebooklm.google.com/notebook/1cc8426f-3c10-4e15-8536-909e47088c17)
+   
+   *Nota: É necessário ter acesso ao NotebookLM para visualizar.*
+   
 ## ⚖️ Disclaimer
 
 Este material é apenas para fins educacionais. Não constitui aconselhamento financeiro. Consulte um profissional qualificado antes de tomar decisões de investimento.
-
----
-
-⭐ Se este repositório foi útil, considere dar uma estrela!
